@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 24px solid transparent;
+    border-right: 24px solid transparent;
+    border-bottom: 48px solid #e2e8f0; /* Default gray background for the triangle */
+  }
+  
+  .triangle.is-over {
+    border-bottom-color: #86efac; /* Light green background for hover state */
+  }
+  
+  .triangle.is-correct {
+    border-bottom-color: #10b981; /* Bright green for correct state */
+  }
