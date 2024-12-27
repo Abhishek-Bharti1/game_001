@@ -1,4 +1,4 @@
-import Button from "./components/Button";
+import Button from "../components/Button";
 
 // eslint-disable-next-line react/prop-types
 const StartGame = ({ handleShowGame }) => {
