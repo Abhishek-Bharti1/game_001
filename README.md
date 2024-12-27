@@ -6,12 +6,14 @@ This is a drag-and-drop functionality game built with React and Tailwind CSS. Th
 - Interactive drag-and-drop functionality.
 - Smooth animations using Framer Motion.
 - Fully responsive design with Tailwind CSS.
+- Sound-effects for correct and wrong answers.
 
 ## Technologies Used
 - **React**: Frontend framework for building the game.
 - **Tailwind CSS**: For styling and responsive design.
 - **React DnD**: Library for drag-and-drop functionality.
 - **Framer Motion**: For smooth animations.
+- **Use-Sound** : useSound hooks for sound experience.
 
 ## Getting Started
 
